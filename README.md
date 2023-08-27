@@ -1,5 +1,5 @@
 # Alessio Distante
-# Genoa - Italy
+ Genoa - Italy
 
 ## Bachelor's Degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/corsi/9273)
 ## :round_pushpin: University of Genoa
