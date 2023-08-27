@@ -1,20 +1,10 @@
-# Alessio Distante
- Genoa - Italy
+## Alessio Distante
+Genoa - :it:
 
-## Bachelor's Degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/corsi/9273)
-## :round_pushpin: University of Genoa
+## :page_with_curl: Bachelor's Degree in [Electronic Engineering and Information Technology](https://corsi.unige.it/corsi/9273)
+:round_pushpin: University of Genoa, :it:
 
-<!--
-**a-distante1999/a-distante1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :page_with_curl: Student of [Computer Engineering Master degree](https://corsi.unige.it/corsi/11160/) <br> Artifical Intelligence and Human-Centered Computing course
+:round_pushpin: University of Genoa, :it:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
